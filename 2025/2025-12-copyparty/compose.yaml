@@ -19,7 +19,7 @@ configs:
       [/]
       /data
       accs:
-        rw: admin
+        rwmd: admin
 
 services:
   copyparty-ts:
